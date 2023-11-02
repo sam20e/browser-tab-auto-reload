@@ -1,6 +1,7 @@
 # browser-tab-auto-reload
 
 **Browser Tab Auto Reloader**
+
 This script provides a way to auto-reload your browser tab within a specified UTC time range. It displays a countdown in the tab title and can be reset with user interactions (like clicks or keypresses). When the countdown hits zero, the tab refreshes, ensuring active user engagement.
 
 **Features**
