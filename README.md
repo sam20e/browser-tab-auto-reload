@@ -23,7 +23,7 @@ This is a UserScript. I was in search of a Chrome plugin capable of automaticall
     - [Microsoft Edge](https://microsoftedge.microsoft.com/addons/detail/tampermonkey/iikmkjmpaadaobahmlepeloendndfphd)
 2. Click the Tampermonkey icon in your browser toolbar and select "Create a new script."
 3. Remove any default code that appears.
-4. Copy and paste the provided script into the Tampermonkey editor.
+4. Copy and paste the provided script [tab_auto_reload.user.js](https://github.com/sam20e/browser-tab-auto-reload/blob/main/tab_auto_reload.user.js)into the Tampermonkey editor.
 5. Save the script by clicking the disk icon or pressing `Ctrl + S`.
 
 ## Configuration
