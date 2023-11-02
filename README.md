@@ -1,5 +1,7 @@
 # Browser Tab Auto Reloader
 
+![Screenshot](https://ucc3d570fe216342fdb4ea31fdec.previews.dropboxusercontent.com/p/thumb/ACFwieTq8949x4cuVQh61pyUB7lH4lM6hPhOhD05ahpsJNhOugWhG_ylyJ1cxgJRM7gGl1Wkev1gjRDsgTEa5IZ5GkO74oXk1Yhn86JGHwM7inENPPomFRkL0rKXkFYNMco3TdV6wiNlh-n1xMex6U5eKCnNrxmZWXK0rqEU0tSSiukdlak4TvL_75VHYbMh7YGMMzmPOvJxa0VWh4YtieWzUTZGdq0O6jbjLj6WfEO8QejiyYMeBdb6nt1vaxVcb0N6FSzodn7yvi4bO64bhG1clto-Ho0MK5l7ZABlRgtHs-Pb8461KaBtr2tz4GRWxeEaosSCX3x7NtS3tT7HROEgxorRZMDlTYRBKtVUlwxMIpgWUCI
+
 This is a UserScript. I was in search of a Chrome plugin capable of automatically reloading a specific domain's browser tab at given intervals, like every 5 minutes. Additionally, I wanted it to pause the timer while I was actively working or typing on that tab. Most of the extensions I tried were riddled with adware and redirects, and some didn't even function properly. As a result, I decided to create a simple UserScript that would exactly fulfill my requirements from a browser extension. I've customized this script and incorporated some advanced features such as:
 
 - Pausing the reload timer during keyboard/mouse click activities.
