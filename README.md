@@ -35,13 +35,16 @@ This is a UserScript. I was in search of a Chrome plugin capable of automaticall
 
 **Configuration:**
 
-Modify the @match tag **IMPORTANT**
-Set the desired UTC time range by modifying the UTC_START_HOUR and UTC_END_HOUR constants in the script.
+- Modify the @match tag (**IMPORTANT**)
+
+- Set the desired UTC time range by modifying the UTC_START_HOUR and UTC_END_HOUR constants in the script.
 
 **Usage:**
 
 Once installed and configured, visit the specified domain in your browser or reload the tab. If the current UTC time is within the range you set, the script will automatically activate and display the countdown in the tab title.
+
 Engaging with the page (clicking or pressing keys) will reset the countdown.
+
 When the countdown reaches zero, the tab will refresh.
 
 **Customization**
